@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(images/img4.jpg);
+    background-image: url('images/img4.jpg');
     background-size:cover;
     background-position: center;
     
@@ -99,4 +99,5 @@ body{
 .register-link p a:hover{
     text-decoration: underline;
 }
+
 
